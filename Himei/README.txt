@@ -2,5 +2,5 @@ Name: Himei
 Role: skid
 Skills: Yapping 
 Github: None
-Status: aktif
+Status: ACTIVE
 Bio: Halo bang
