@@ -1,6 +1,6 @@
 Name: ZenithxNecxus
 Role: Friend
-Skills: Python, JavaScript, golang, rust, nodejs
+Skills: Full Stack Developer
 GitHub: https://github.com/zenithxnecxus
 Status: active
 Bio: hay ker heker
